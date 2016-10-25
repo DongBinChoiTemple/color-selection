@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ColorSelection</string>
+
+    <string-array name="colors_array">
+        <item>white</item>
+        <item>light gray</item>
+        <item>dark gray</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>blue</item>
+        <item>magenta</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorSelection</string>
+
+    <string-array name="colors_array">
+        <item>vaige</item>
+        <item>helehall</item>
+        <item>tumehall</item>
+        <item>punane</item>
+        <item>kollane</item>
+        <item>roheline</item>
+        <item>tsüaansinine</item>
+        <item>sinine</item>
+        <item>magenta</item>
+    </string-array>
+</resources>

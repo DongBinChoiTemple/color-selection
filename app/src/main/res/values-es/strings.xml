@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorSelection</string>
+
+    <string-array name="colors_array">
+        <item>blanco</item>
+        <item>gris claro</item>
+        <item>gris oscuro</item>
+        <item>rojo</item>
+        <item>amarillo</item>
+        <item>verde</item>
+        <item>cian</item>
+        <item>azul</item>
+        <item>magenta</item>
+    </string-array>
+
+</resources>
